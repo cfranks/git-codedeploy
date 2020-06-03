@@ -1,0 +1,8 @@
+.panel-border {
+    border: solid 1px #ddd;
+    border-top: 0px;
+}
+.required:after {
+    content: "*";
+    color: red;
+}

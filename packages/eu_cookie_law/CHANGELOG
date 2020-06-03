@@ -1,0 +1,110 @@
+Version 1.1.1
+==================================================
+- Fix plural form for polnish
+- Fix plural form for arabic
+
+Version 1.1.0
+==================================================
+- Change app icon
+
+Version 1.0.8
+==================================================
+- Add new marketing elements
+- Fix wrong variable for border color in cookie-disclosure.js
+- Fix CSS for border color
+
+Version 1.0.7
+==================================================
+- Add opt out support for cookies where host is starting with "."
+
+Version 1.0.6
+==================================================
+- Bugfix with Mysql strict mode
+
+Version 1.0.4
+==================================================
+- Add new detetion method for multilingual sites
+
+Version 1.0.3
+==================================================
+- Add option to disable forced reload (not recommend)
+
+Version 1.0.2
+==================================================
+- Change app-icon
+
+Version 1.0.1.8
+==================================================
+- Prevent problems with full page caching
+
+Version 1.0.1.7
+==================================================
+- Refactoring + Optimization for 8+
+- GUI Improvements
+- Fixed bug in browser language detection
+- Fixed bug in geo language detection
+
+Version 1.0.1.6
+==================================================
+- Bugfix: Fix error with general privacy page
+
+Version 1.0.1.5
+==================================================
+- Bugfix: Error while saving the general privacy page
+
+Version 1.0.1.4
+==================================================
+- Custom texts can now be translated via PO language files.
+- New detection method implemented: The language can now optionally detected by the IP address.
+- Separate privacy pages can now be added for different languages.
+
+Version 1.0.1.3
+==================================================
+- Fix bug when running add-on on multilingual pages
+- Make all custom texts editable
+
+Version 1.0.1.2
+==================================================
+- Add Block Element for Opt-Out
+- Add option to customize the text
+
+Version 1.0.1.0
+==================================================
+- Save Decline Cookie state
+
+Version 1.0.0.9
+==================================================
+- Add new option: Language
+- Add new option: Method
+
+Version 1.0.0.8
+==================================================
+- Bugfix: Missing JS lib
+
+Version 1.0.0.7
+==================================================
+- Add World wide support
+
+Version 1.0.0.6
+==================================================
+- Bugfix: Tracking Codes included in concrete5 v8 without opt-in
+
+Version 1.0.0.5
+==================================================
+- Add post setup popup
+
+Version 1.0.0.4
+==================================================
+- Add support for EU General Data Protection Regulation (GDPR)
+
+Version 1.0.0.3
+==================================================
+- Fix PHP 5.3 downward compatibility of included 3rd party libs
+
+Version 1.0.0.1
+==================================================
+- Fix PHP 5.3 downward compatibility
+
+Version 1.0.0.0
+==================================================
+- Add special offer notice

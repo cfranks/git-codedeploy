@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+    <table name="btHeroHomepage">
+        <field name="bID" type="I">
+            <key/>
+            <unsigned/>
+        </field>
+        <field name="heroimg" type="I">
+            <default value="0"/>
+            <unsigned/>
+        </field>
+        <field name="heroheader" type="C" size="255"></field>
+        <field name="blurb" type="X"></field>
+        <field name="btnone" type="I"></field>
+        <field name="btnone_text" type="C"></field>
+        <field name="btntwo" type="I"></field>
+        <field name="btntwo_text" type="C"></field>
+        <field name="imgcaption" type="X2"></field>
+    </table>
+</schema>
