@@ -2,21 +2,21 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /var/www/
-hooks:
-  ApplicationStop:
-    - location: scripts/stop_server.sh
-      timeout: 300
-      runas: root
-  ApplicationStart:
-    - location: scripts/start_server.sh
-      timeout: 300
-      runas: root
+    destination: /var/www
 permissions:
   - object: /var/www
     pattern: "*"
     owner: www-data
     group: www-data
-    mode: 770
+    mode: 777
     type:
       - directory
+hooks:
+  BeforeInstall:
+    - location: scripts/stop_server.sh
+      timeout: 300
+      runas: ubuntu
+  AfterInstall:
+    - location: scripts/start_server.sh
+      timeout: 300
+      runas: root
