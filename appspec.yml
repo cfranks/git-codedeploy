@@ -11,3 +11,12 @@ permissions:
     mode: 777
     type:
       - directory
+hooks:
+  BeforeInstall:
+    - location: scripts/stop_server.sh
+      timeout: 3600
+      runas: ubuntu
+  ApplicationStart:
+    - location: scripts/start_server.sh
+      timeout: 3600
+      runas: ubuntu
