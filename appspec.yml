@@ -4,7 +4,6 @@ files:
   - source: /
     destination: /var/www/example.com
 permissions:
-  - object: /var/www
     pattern: "*"
     owner: www-data
     group: www-data
