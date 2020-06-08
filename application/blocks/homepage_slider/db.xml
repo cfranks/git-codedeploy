@@ -1,0 +1,18 @@
+<?php xml version="1.0"?>
+<schema version="0.3">
+    <table name="btHomepageSlider">
+        <field name="bID" type="I">
+            <key/>
+            <unsigned/>
+        </field>
+        <field name="sliderImage" type="I">
+            <default value="0"/>
+            <unsigned/>
+        </field>
+        <field name="TitleText" type="C" size="255"></field>
+        <field name="HeaderText" type="C" size="255"></field>
+        <field name="description_1" type="X"></field>
+        <field name="LinkTo" type="I"></field>
+        <field name="LinkTo_text" type="C"></field>
+    </table>
+</schema>

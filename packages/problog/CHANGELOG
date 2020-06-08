@@ -1,0 +1,16 @@
+/****************************/
+version 2
+/****************************/
+
+ADDITIONS
+- new Composer integration
+- new Template option
+- new Optimzer Tool in both composer and popup editor
+
+REMOVED
+- User Blogs
+- XMLRPC / Pingback
+
+TO BE ADDED
+- Profile/Account Blogging
+- Blog Subscriptions

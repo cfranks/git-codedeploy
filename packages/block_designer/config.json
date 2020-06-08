@@ -1,0 +1,16 @@
+{
+    "ftOrder": [
+        "text_box",
+        "text_area",
+        "wysiwyg",
+        "image",
+        "link",
+        "url",
+        "select",
+        "number",
+        "static",
+        "email",
+        "date_time"
+    ],
+    "ftSort": "asort"
+}

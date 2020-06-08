@@ -1,0 +1,5 @@
+User-agent: SEMrushBot
+Allow:/
+
+User-agent: *
+Disallow: /

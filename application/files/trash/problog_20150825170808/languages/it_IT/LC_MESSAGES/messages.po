@@ -1,0 +1,1342 @@
+msgid ""
+msgstr "Project-Id-Version: problog 2.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-24 07:54+0000\n"
+"PO-Revision-Date: 2014-10-23 06:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Poedit-Basepath: ../../../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Language: it_IT\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: Italy\n"
+
+#: packages/problog/attributes/composer_optimizer/form.php:8
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:331
+msgid "You have not enabled your Alchemy API!"
+msgstr "Le API di Alchemy non sono state abilitate!"
+
+#: packages/problog/attributes/composer_optimizer/form.php:9
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:332
+msgid "<p>You can enable your Alchemy API in your ProBlog settings area.</p>"
+msgstr "<p>È possibile abilitare le API di Alchemy nell’area delle impostazioni di ProBlog.</p>"
+
+#: packages/problog/attributes/composer_optimizer/form.php:17
+msgid "Run Optimizer Report"
+msgstr "Avvia il report dell’ottimizzatore"
+
+#: packages/problog/attributes/post_to_twitter/form.php:12
+msgid "Your Tweet Is Live! Woot!!!"
+msgstr "Il tuo tweet è stato pubblicato! Wow!!!"
+
+#: packages/problog/attributes/post_to_twitter/form.php:15
+#: packages/problog/controller.php:221
+msgid "Post To Twitter"
+msgstr "Posta su twitter"
+
+#: packages/problog/attributes/post_to_twitter/form.php:16
+msgid "#hashtag1 #hashtag2 @soandso"
+msgstr "#hashtag1 #hashtag2 @utente"
+
+#: packages/problog/attributes/post_to_twitter/form.php:49
+msgid "You have not authorized twitter in your ProBlog settings yet!"
+msgstr "Twitter non è stato ancora abilitato nelle impostazioni di ProBlog!"
+
+#: packages/problog/blocks/content/templates/blog_post/view.php:47
+#: packages/problog/blocks/problog_list/templates/past_posts/view.php:71
+#: packages/problog/blocks/problog_list/view.php:71
+#: packages/problog/controller.php:192
+#: packages/problog/controller.php:200
+msgid "Tags"
+msgstr "Tag"
+
+#: packages/problog/blocks/content/templates/blog_post/view.php:61
+#: packages/problog/blocks/problog_list/templates/past_posts/view.php:52
+#: packages/problog/blocks/problog_list/view.php:52
+msgid "Category"
+msgstr "Categoria"
+
+#: packages/problog/blocks/content/templates/blog_post/view.php:74
+msgid "About The Author"
+msgstr "Informazioni sull’autore"
+
+#: packages/problog/blocks/content/templates/blog_post/view.php:86
+msgid "<i> Please add your bio info through your member profile page, or through your dashboard.</i>"
+msgstr "<i>Aggiungere le proprie informazioni biografiche tramite la pagina del proprio profilo oppure tramite il proprio pannello di controllo.</i>"
+
+#: packages/problog/blocks/content/templates/blog_post/view.php:112
+msgid "Next"
+msgstr "Avanti"
+
+#: packages/problog/blocks/content/templates/blog_post/view.php:119
+msgid "Previous"
+msgstr "Indietro"
+
+#: packages/problog/blocks/latest_comments/controller.php:21
+msgid "List of Latest Comments"
+msgstr "Elenco degli ultimi commenti"
+
+#: packages/problog/blocks/latest_comments/controller.php:26
+#: packages/problog/blocks/latest_comments/view.php:4
+msgid "Latest Comments"
+msgstr "Ultimi commenti"
+
+#: packages/problog/blocks/latest_comments/controller.php:63
+msgid "Powered by Disqus"
+msgstr "Basato su Disqus"
+
+#: packages/problog/blocks/latest_comments/form.php:2
+msgid "Number of items to display:"
+msgstr "Numero di voci da mostrare:"
+
+#: packages/problog/blocks/latest_comments/form.php:2
+msgid "0 for all"
+msgstr "0 per tutti"
+
+#: packages/problog/blocks/problog_date_archive/controller.php:31
+msgid "Displays month archive for pages"
+msgstr "Mostra archivi mensili per le pagine"
+
+#: packages/problog/blocks/problog_date_archive/controller.php:36
+msgid "ProBlog Date Archive"
+msgstr "Archivio storico di ProBlog"
+
+#: packages/problog/blocks/problog_date_archive/form.php:7
+msgctxt "Input of a title"
+msgid "Display Title"
+msgstr "Titolo da mostrare"
+
+#: packages/problog/blocks/problog_date_archive/form.php:10
+msgid "# of Months to display"
+msgstr "N° di mesi da mostrare"
+
+#: packages/problog/blocks/problog_date_archive/form.php:15
+msgid "Months Link to Page"
+msgstr "Collegamento mesi alla pagina"
+
+#: packages/problog/blocks/problog_list/controller.php:30
+msgid "List Blog Items based on type, author, or category."
+msgstr "Elenca le voci del blog in base a tipo, autore o categoria."
+
+#: packages/problog/blocks/problog_list/controller.php:35
+msgid "ProBlog List"
+msgstr "Elenco ProBlog"
+
+#: packages/problog/blocks/problog_list/controller.php:41
+#: packages/problog/blocks/related_pages/controller.php:40
+msgid "Please give your RSS Feed a name."
+msgstr "Dare un nome al feed RSS."
+
+#: packages/problog/blocks/problog_list/controller.php:158
+#: packages/problog/blocks/problog_list/controller.php:310
+#: packages/problog/blocks/problog_list/controller.php:317
+#: packages/problog/blocks/problog_list/problog_list_form.php:105
+#: packages/problog/blocks/problog_list/problog_list_form.php:106
+#: packages/problog/blocks/problog_list/problog_list_form.php:108
+#: packages/problog/controller.php:436
+#: packages/problog/controller.php:466
+#: packages/problog/controller.php:544
+#: packages/problog/controller.php:606
+#: packages/problog/helpers/blogify.php:90
+#: packages/problog/helpers/blogify.php:126
+#: packages/problog/helpers/blogify.php:170
+#: packages/problog/helpers/blogify.php:206
+msgid "All Categories"
+msgstr "Tutte le categorie"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:20
+#: packages/problog/single_pages/dashboard/problog/settings.php:68
+msgid "Content"
+msgstr "Contenuto"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:22
+msgid "Filters"
+msgstr "Filtri"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:24
+msgid "Sorting"
+msgstr "Ordinamento"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:26
+#: packages/problog/elements/tools/add_blog.php:73
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:56
+#: packages/problog/single_pages/dashboard/problog/settings.php:12
+msgid "Options"
+msgstr "Opzioni"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:31
+#: packages/problog/elements/tools/add_blog.php:93
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:71
+msgid "Blog Title"
+msgstr "Titolo del blog"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:37
+msgid "Number/Type of Pages"
+msgstr "Numero/tipo di pagine"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:39
+#: packages/problog/blocks/related_pages/form.php:24
+msgid "Display"
+msgstr "Mostra"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:41
+#: packages/problog/blocks/related_pages/form.php:26
+msgid "pages of type"
+msgstr "pagine di tipo"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:62
+msgid "Truncate Summaries?"
+msgstr "Troncare i sommari?"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:66
+#: packages/problog/blocks/related_pages/form.php:179
+msgid "Truncate descriptions after"
+msgstr "Tronca le descrizioni dopo"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:68
+#: packages/problog/blocks/related_pages/form.php:181
+msgid "characters"
+msgstr "caratteri"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:73
+msgid "Page Break?"
+msgstr "Interruzione di pagina?"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:77
+msgid "Page Break Syntax"
+msgstr "Sintassi interruzione di pagina?"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:83
+msgid "Use Content instead of Description?"
+msgstr "Usare il contenuto invece della descrizione?"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:87
+msgid "Yes, use the page \"content\" block"
+msgstr "Sì, usa il blocco “Contenuto” della pagina"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:92
+msgid "Display Aliases"
+msgstr "Mostra alias"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:95
+msgid "Display page aliases."
+msgstr "Mostra gli alias della pagina."
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:99
+msgid "By Categories"
+msgstr "Per categoria"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:124
+msgid "Match All Categories"
+msgstr "Associato a tutte le categorie"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:127
+msgid "Yes, posts must match all Category selections."
+msgstr "Sì, i posto devono essere associati a tutte le categorie selezionate."
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:132
+msgid "By Author"
+msgstr "Per autore"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:140
+msgid "By Sitemap"
+msgstr "In base alla mappa del sito"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:143
+#: packages/problog/blocks/related_pages/form.php:47
+msgid "everywhere"
+msgstr "ovunque"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:147
+#: packages/problog/blocks/related_pages/form.php:54
+msgid "beneath this page"
+msgstr "sotto questa pagina"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:151
+#: packages/problog/blocks/related_pages/form.php:58
+msgid "beneath another page"
+msgstr "sotto un’altra pagina"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:169
+msgid "Filter only Featured Posts"
+msgstr "Filtra solo i post in evidenza"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:172
+#: packages/problog/blocks/related_pages/form.php:82
+msgid "Featured pages only."
+msgstr "Solo le pagine in evidenza."
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:174
+msgid "(<strong>Note</strong>: You must create the \"is_featured\" page attribute first.)"
+msgstr "(<strong>Nota</strong>: prima è necessario creare l’attributo di pagina “is_featured”.)"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:181
+#: packages/problog/blocks/related_pages/form.php:159
+msgid "Sort Pages"
+msgstr "Ordina pagine"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:182
+#: packages/problog/blocks/related_pages/form.php:160
+msgid "Pages should appear"
+msgstr "Le pagine dovrebbero apparire"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:184
+#: packages/problog/blocks/related_pages/form.php:163
+msgid "in their sitemap order"
+msgstr "nell’ordine della mappa del sito"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:185
+#: packages/problog/blocks/related_pages/form.php:164
+msgid "with the most recent first"
+msgstr "prima le più recenti"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:186
+msgid "with the earlist first"
+msgstr "prima le più vecchie"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:187
+#: packages/problog/blocks/related_pages/form.php:166
+msgid "in alphabetical order"
+msgstr "in ordine alfabetico"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:188
+#: packages/problog/blocks/related_pages/form.php:167
+msgid "in reverse alphabetical order"
+msgstr "in ordine alfabetico inverso"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:193
+msgid "Pagination"
+msgstr "Paginazione"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:195
+msgid "Display pagination interface if more items are available than are displayed."
+msgstr "Mostra interfaccia paginazione se disponibili più elementi di quelli visualizzati."
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:201
+msgid "Provide RSS Feed"
+msgstr "Fornisci un feed RSS"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:202
+#: packages/problog/single_pages/dashboard/problog/settings.php:50
+msgid "Yes"
+msgstr "Sì"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:204
+msgid "No"
+msgstr "No"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:207
+msgid "RSS Feed Title"
+msgstr "Titolo del feed RSS"
+
+#: packages/problog/blocks/problog_list/problog_list_form.php:209
+msgid "RSS Feed Description"
+msgstr "Descrizione del feed RSS"
+
+#: packages/problog/blocks/problog_list/templates/footer_list/view.php:56
+msgid "by"
+msgstr "by"
+
+#: packages/problog/blocks/problog_list/templates/footer_list/view.php:74
+msgid "Get this feed"
+msgstr "Prendi questo feed"
+
+#: packages/problog/blocks/problog_list/templates/past_posts/view.php:69
+#: packages/problog/blocks/problog_list/view.php:69
+msgid "Read More"
+msgstr "Approfondisci"
+
+#: packages/problog/blocks/problog_list/templates/past_posts/view.php:108
+#: packages/problog/blocks/problog_list/view.php:96
+#: packages/problog/blocks/problog_list/view.php:131
+msgid "Unsubscribe from this Blog"
+msgstr "Annulla iscrizione a questo blog"
+
+#: packages/problog/blocks/problog_list/templates/past_posts/view.php:111
+#: packages/problog/blocks/problog_list/view.php:96
+#: packages/problog/blocks/problog_list/view.php:134
+msgid "Subscribe to this Blog"
+msgstr "Iscriviti a questo blog"
+
+#: packages/problog/blocks/problog_list/view.php:105
+msgid "get RSS feed"
+msgstr "prendi questo feed RSS"
+
+#: packages/problog/blocks/problog_list/view.php:107
+msgid "RSS"
+msgstr "RSS"
+
+#: packages/problog/blocks/related_pages/controller.php:29
+msgid "Return a set number of related pages based on tags"
+msgstr "Ritorna un numero di set di pagine correlated in base ai tag"
+
+#: packages/problog/blocks/related_pages/controller.php:34
+msgid "Related Pages"
+msgstr "Pagine correlate"
+
+#: packages/problog/blocks/related_pages/form.php:23
+msgid "Number and Type of Pages"
+msgstr "Numero e tipo di pagine"
+
+#: packages/problog/blocks/related_pages/form.php:32
+#: packages/problog/single_pages/dashboard/problog/comments.php:25
+msgid "All"
+msgstr "Tutto"
+
+#: packages/problog/blocks/related_pages/form.php:42
+msgid "Location in Website"
+msgstr "Posizione nel sito web"
+
+#: packages/problog/blocks/related_pages/form.php:43
+msgid "Display pages that are located"
+msgstr "Mostra le pagine collocate"
+
+#: packages/problog/blocks/related_pages/form.php:50
+msgid "with same parent"
+msgstr "sotto lo stesso padre"
+
+#: packages/problog/blocks/related_pages/form.php:72
+msgid "Filter Page"
+msgstr "Filtro pagina"
+
+#: packages/problog/blocks/related_pages/form.php:84
+msgid "(<strong>Note</strong>: requires \"is_featured\" page attribute.)"
+msgstr "(<strong>Nota</strong>: richiede l’attributo “is_featured” delle pagine.)"
+
+#: packages/problog/blocks/related_pages/form.php:91
+msgid "Tags From Current Page"
+msgstr "Tag dalla pagina attuale"
+
+#: packages/problog/blocks/related_pages/form.php:162
+msgid "in a random order"
+msgstr "in ordine casiale"
+
+#: packages/problog/blocks/related_pages/form.php:165
+msgid "with the earliest first"
+msgstr "prima le più vecchie"
+
+#: packages/problog/blocks/related_pages/form.php:176
+msgid "Truncate Summaries"
+msgstr "Tronca i sommari"
+
+#: packages/problog/blocks/related_pages/templates/compact/view.php:6
+#: packages/problog/blocks/related_pages/view.php:5
+msgid "Related Posts"
+msgstr "Post correlati"
+
+#: packages/problog/controller.php:34
+msgid "A professional Blogging package"
+msgstr "Un pacchetto professionale per i blog"
+
+#: packages/problog/controller.php:39
+#: packages/problog/controller.php:60
+#: packages/problog/controller.php:132
+msgid "ProBlog"
+msgstr "ProBlog"
+
+#: packages/problog/controller.php:60
+msgid "Blog Management"
+msgstr "Gestione del blog"
+
+#: packages/problog/controller.php:67
+msgid "Add/Edit"
+msgstr "Aggiungi/modifica"
+
+#: packages/problog/controller.php:136
+msgid "ProBlog Additional Attributes"
+msgstr "Attributi aggiuntivi di ProBlog"
+
+#: packages/problog/controller.php:141
+msgctxt "AttributeTypeName"
+msgid "User Picker"
+msgstr "Seleziona utente"
+
+#: packages/problog/controller.php:147
+msgctxt "AttributeTypeName"
+msgid "Post To Twitter"
+msgstr "Posta su Twitter"
+
+#: packages/problog/controller.php:153
+msgctxt "AttributeTypeName"
+msgid "ProBlog Optimizer"
+msgstr "Ottimizzatore ProBlog"
+
+#: packages/problog/controller.php:161
+msgid "Blog Author"
+msgstr "Autore del blog"
+
+#: packages/problog/controller.php:170
+msgid "Blog Section"
+msgstr "Sezione del blog"
+
+#: packages/problog/controller.php:181
+#: packages/problog/elements/tools/add_blog.php:215
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:193
+msgid "Blog Category"
+msgstr "Categoria del blog"
+
+#: packages/problog/controller.php:213
+msgid "Thumbnail Image"
+msgstr "Miniatura"
+
+#: packages/problog/controller.php:229
+msgid "ProBlog Optimizer"
+msgstr "Ottimizzatore ProBlog"
+
+#: packages/problog/controller.php:297
+msgid "Post Title"
+msgstr "Titolo del post"
+
+#: packages/problog/controller.php:302
+msgid "Post Slug"
+msgstr "Nome nell’URL del post"
+
+#: packages/problog/controller.php:431
+#: packages/problog/helpers/blogify.php:85
+#: packages/problog/helpers/blogify.php:165
+msgid "Latest blog"
+msgstr "Ultimo blog"
+
+#: packages/problog/controller.php:433
+#: packages/problog/helpers/blogify.php:87
+#: packages/problog/helpers/blogify.php:167
+msgid "Our latest blog feed"
+msgstr "Il feed più recente del nostro blog"
+
+#: packages/problog/controller.php:437
+msgid "Our Latest Blog Posts"
+msgstr "Gli ultimi post del nostro blog"
+
+#: packages/problog/controller.php:446
+#: packages/problog/controller.php:524
+#: packages/problog/controller.php:586
+#: packages/problog/helpers/blogify.php:106
+#: packages/problog/helpers/blogify.php:186
+msgid "Category List"
+msgstr "Elenco categorie"
+
+#: packages/problog/controller.php:448
+#: packages/problog/controller.php:526
+#: packages/problog/controller.php:588
+#: packages/problog/helpers/blogify.php:108
+#: packages/problog/helpers/blogify.php:188
+msgid "Tag List"
+msgstr "Elenco tag"
+
+#: packages/problog/controller.php:450
+#: packages/problog/controller.php:528
+#: packages/problog/controller.php:590
+#: packages/problog/helpers/blogify.php:110
+#: packages/problog/helpers/blogify.php:190
+msgid "Tag Cloud"
+msgstr "Tag cloud"
+
+#: packages/problog/controller.php:452
+#: packages/problog/controller.php:530
+#: packages/problog/controller.php:592
+#: packages/problog/helpers/blogify.php:112
+#: packages/problog/helpers/blogify.php:192
+msgid "Archive"
+msgstr "Archivio"
+
+#: packages/problog/controller.php:506
+msgid "Blog Search"
+msgstr "Cerca nel blog"
+
+#: packages/problog/controller.php:507
+msgid "go"
+msgstr "vai"
+
+#: packages/problog/controller.php:627
+msgid "Please add a comment"
+msgstr "Aggiungere un commento"
+
+#: packages/problog/controller.php:641
+#: packages/problog/single_pages/dashboard/problog/settings.php:30
+msgid "Author Info"
+msgstr "Info sull’autore"
+
+#: packages/problog/controller.php:648
+msgid "About the author"
+msgstr "Informazioni sull’autore"
+
+#: packages/problog/controller.php:664
+msgid "First Name"
+msgstr "Nome"
+
+#: packages/problog/controller.php:679
+msgid "Last Name"
+msgstr "Cognome"
+
+#: packages/problog/controller.php:889
+msgid "Edit"
+msgstr "Modifica"
+
+#: packages/problog/controller.php:893
+msgid "Create"
+msgstr "Crea"
+
+#: packages/problog/controller.php:900
+msgid " Event"
+msgstr " Evento"
+
+#: packages/problog/controller.php:905
+msgid "Create Blog"
+msgstr "Crea blog"
+
+#: packages/problog/controllers/single_page/account/publish.php:87
+#: packages/problog/controllers/tools/add_blog.php:76
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:30
+msgid "Update Blog Entry"
+msgstr "Aggiorna voce del blog"
+
+#: packages/problog/controllers/single_page/account/publish.php:91
+#: packages/problog/controllers/tools/add_blog.php:80
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:34
+msgid "Add Blog Entry"
+msgstr "Aggiungi voce del blog"
+
+#: packages/problog/controllers/single_page/blogsearch.php:20
+msgid "Blog Search Page"
+msgstr "Pagina di ricerca del blog"
+
+#: packages/problog/controllers/single_page/blogsearch.php:21
+msgid "Search website for terms, categories, tags and content keywords."
+msgstr "Cerca nel sito per parole chiave, categorie e tag del contenuto."
+
+#: packages/problog/controllers/single_page/blogsearch.php:42
+msgid "Blog Search Categories"
+msgstr "Ricerca categorie del blog"
+
+#: packages/problog/controllers/single_page/blogsearch.php:43
+msgid "Blog categories search result for "
+msgstr "Risultati ricerca categorie del blog per"
+
+#: packages/problog/controllers/single_page/blogsearch.php:46
+msgid "Blog Search Tags"
+msgstr "Ricerca tag del blog"
+
+#: packages/problog/controllers/single_page/blogsearch.php:47
+msgid "Blog tags search result for "
+msgstr "Risultati ricerca tag del blog per"
+
+#: packages/problog/controllers/single_page/dashboard/problog/add_blog.php:170
+#: packages/problog/controllers/tools/add_blog.php:157
+msgid "You must choose a parent page for this blog entry."
+msgstr "È necessario selezionare una pagina padre per questa voce del blog."
+
+#: packages/problog/controllers/single_page/dashboard/problog/add_blog.php:174
+#: packages/problog/controllers/tools/add_blog.php:161
+msgid "Title is required"
+msgstr "È necessario specificare il titolo"
+
+#: packages/problog/controllers/single_page/dashboard/problog/add_blog.php:178
+msgid "You must have at least one page in your website designated as a \"blog section\"."
+msgstr "È necessario avere almeno una pagina del sito designata come una “sezione del blog”."
+
+#: packages/problog/controllers/single_page/dashboard/problog/add_blog.php:191
+#: packages/problog/controllers/tools/add_blog.php:174
+msgid "Categories must have a value"
+msgstr "Le categorie devono avere un valore"
+
+#: packages/problog/controllers/single_page/dashboard/problog/add_blog.php:203
+msgid "You do not have permission to add a page of that type to that area of the site."
+msgstr "Non si possiede l’autorizzazione per aggiungere una pagina di quel tipo in quell’area del sito."
+
+#: packages/problog/controllers/single_page/dashboard/problog/blog_list.php:107
+#, php-format
+msgid "\"%s\" has been approved and is now public"
+msgstr "“%s” è stato approvato e ora è pubblico"
+
+#: packages/problog/controllers/single_page/dashboard/problog/blog_list.php:115
+#, php-format
+msgid "\"%s\" has been deleted"
+msgstr "“%s” è stato eliminato"
+
+#: packages/problog/controllers/single_page/dashboard/problog/blog_list.php:175
+msgid "Blog added."
+msgstr "Blog aggiunto."
+
+#: packages/problog/controllers/single_page/dashboard/problog/blog_list.php:181
+msgid "Blog updated."
+msgstr "Blog aggiornato."
+
+#: packages/problog/controllers/single_page/dashboard/problog/comments.php:111
+msgid "Message Has Been Deleted!"
+msgstr "Il messsaggio è stato eliminato!"
+
+#: packages/problog/controllers/single_page/dashboard/problog/comments.php:124
+msgid "Message unapproved!"
+msgstr "Il messsaggio è stato segnato come non approvato!"
+
+#: packages/problog/controllers/single_page/dashboard/problog/comments.php:137
+msgid "Message Approved!"
+msgstr "Il messsaggio è stato approvato!"
+
+#: packages/problog/controllers/tools/add_blog.php:74
+msgid "You are now editing"
+msgstr "Stai modificando"
+
+#: packages/problog/elements/dashboard/install.php:7
+msgid "Pre Install Checker"
+msgstr "Verifiche pre-installazione"
+
+#: packages/problog/elements/dashboard/install.php:12
+msgid "Excellent! Your theme has a right_sidebar!"
+msgstr "Perfetto! Il tuo tema ha right_sidebar!"
+
+#: packages/problog/elements/dashboard/install.php:13
+msgid "Everything looks good! Go ahead and install ProBlog!"
+msgstr "Tutto sembra a posto! Procedi e installa ProBlog!"
+
+#: packages/problog/elements/dashboard/install.php:19
+msgid "No right_sidebar page template found"
+msgstr "Non è stato trovato il modello di pagina right_sidebar"
+
+#: packages/problog/elements/dashboard/install.php:20
+msgid "Danger Will Robinson!!! Your theme must have a right_sidebar page template to install!!!"
+msgstr ""
+"Acciderboli!!! Il tuo dema deve avere il modello di pagina right_sidebar per "
+"poter proseguire con l’installazione!!!"
+
+#: packages/problog/elements/dashboard/install.php:21
+msgid "Please <b><u>cancel</u></b> and register a right_sidebar page template to your theme before attempting to install ProBlog!"
+msgstr ""
+"<b><u>Annullare</u></b> l’installazione e registrare un modello di pagina "
+"right_sidebar nel proprio tema prima di installare ProBlog!"
+
+#: packages/problog/elements/tools/add_blog.php:69
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:52
+msgid "Info"
+msgstr "Info"
+
+#: packages/problog/elements/tools/add_blog.php:71
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:54
+msgid "Post"
+msgstr "Post"
+
+#: packages/problog/elements/tools/add_blog.php:76
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:59
+msgid "Attributes"
+msgstr "Attributi"
+
+#: packages/problog/elements/tools/add_blog.php:79
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:62
+msgid "Meta"
+msgstr "Meta"
+
+#: packages/problog/elements/tools/add_blog.php:81
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:64
+msgid "Optimize"
+msgstr "Ottimizza"
+
+#: packages/problog/elements/tools/add_blog.php:100
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:78
+msgid "Author"
+msgstr "Autore"
+
+#: packages/problog/elements/tools/add_blog.php:136
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:114
+msgid "Blog Description"
+msgstr "Descrizione del blog"
+
+#: packages/problog/elements/tools/add_blog.php:144
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:122
+msgid "Draft Copy"
+msgstr "Bozza"
+
+#: packages/problog/elements/tools/add_blog.php:153
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:131
+msgid "save normal"
+msgstr "salva normale"
+
+#: packages/problog/elements/tools/add_blog.php:153
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:131
+msgid "save as draft"
+msgstr "salva come bozza"
+
+#: packages/problog/elements/tools/add_blog.php:189
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:167
+msgid "Date/Time"
+msgstr "Data/Ora"
+
+#: packages/problog/elements/tools/add_blog.php:223
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:201
+msgid "Section/Location"
+msgstr "Sezione/Posizione"
+
+#: packages/problog/elements/tools/add_blog.php:226
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:204
+msgid "No sections defined. Please create a page with the attribute \"blog_section\" set to true."
+msgstr "Nessuna sezione definita. Crare una pagina con l’attributo “blog_section” impostato a vero."
+
+#: packages/problog/elements/tools/add_blog.php:256
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:234
+msgid "Page Template"
+msgstr "Modello di pagina"
+
+#: packages/problog/elements/tools/add_blog.php:269
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:247
+msgid "Post to Twitter?"
+msgstr "Posta su Twitter?"
+
+#: packages/problog/elements/tools/add_blog.php:298
+#: packages/problog/elements/tools/optimizer.php:90
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:276
+msgid "Meta Title"
+msgstr "Titolo meta"
+
+#: packages/problog/elements/tools/add_blog.php:310
+#: packages/problog/elements/tools/optimizer.php:94
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:288
+msgid "Meta Description"
+msgstr "Descrizione meta"
+
+#: packages/problog/elements/tools/add_blog.php:322
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:300
+msgid "Meta Tags"
+msgstr "Tag meta"
+
+#: packages/problog/elements/tools/add_blog.php:388
+msgid "Your Blog Post has been posted successfully!"
+msgstr "Il post è stato pubblicato nel blog!"
+
+#: packages/problog/elements/tools/optimizer.php:19
+msgid "Natural Language Keyword Phrase Strength"
+msgstr "Forza delle frase chiave in linguaggio naturale"
+
+#: packages/problog/elements/tools/optimizer.php:19
+msgid "<p>Natural Language Processing (NLP) is an advanced algorithm design to appropriately arranged keywords as users would most likely search for them</p><p>This differs from single keyword density in that users rarely will search for any given term by itself.  Thus providing a more concise recognizable grouping of keyword terms.  Search Engines are now progressing to recognize and parse data in this way</p>"
+msgstr "<p>L’elaborazione del linguaggio naturale (Natural Language Processing - NLP) è un algoritmo di design avanzato per organizzare le parole chiave in modo da averle molto simili a come molto probabilmente verranno ricercate dagli utenti</p><p>Differisce dalla densità delle parola chiave singole in quanto gli utenti raramente cercano un termine qualsiasi isolato.  Si fornisce così un più conciso e riconoscibile raggruppamento di parole chiave.  I motori di ricerca analizzano e riconoscono i dati in questo modo</p>"
+
+#: packages/problog/elements/tools/optimizer.php:23
+msgid "NLP Keyword Phrase"
+msgstr "Frase chiave NPL"
+
+#: packages/problog/elements/tools/optimizer.php:24
+msgid "Search Relevance"
+msgstr "Rilevanza ricerca"
+
+#: packages/problog/elements/tools/optimizer.php:25
+#: packages/problog/elements/tools/optimizer.php:39
+msgid "Times Used"
+msgstr "N° volte usata"
+
+#: packages/problog/elements/tools/optimizer.php:26
+#: packages/problog/elements/tools/optimizer.php:40
+msgid "Density %"
+msgstr "Densità %"
+
+#: packages/problog/elements/tools/optimizer.php:34
+msgid "Single Keyword Strength"
+msgstr "Forza delle parole chiave singole"
+
+#: packages/problog/elements/tools/optimizer.php:34
+msgid "<p>Single Keyword Optimization is still very important in how Search Engines view your content</p><p>The recommended Keyword Density is 1-3%</p>"
+msgstr "<p>L’ottimizzazione delle singole parole chiave è ancora molto importante per come i motori di ricerca vedono i tuoi contenuti</p><p>La densità raccomandata di parole chiave è di 1-3%</p>"
+
+#: packages/problog/elements/tools/optimizer.php:38
+msgid "Keyword"
+msgstr "Parola chiave"
+
+#: packages/problog/elements/tools/optimizer.php:49
+msgid "Link Usage"
+msgstr "Uso dei collegamenti"
+
+#: packages/problog/elements/tools/optimizer.php:49
+msgid "<p>Link use is also important in how Search Engines perceive your content.</p><p>The more links you have to related & relevant content, the more relevant Search Engines deem your post.</p><p>Having XMLRPC compatible links can also have a positive impact as your posts will be cross commented between both sites with back linking available for crawlers.</p><p>The recommended Link Density is .5-1.5%</p>"
+msgstr ""
+"<p>L’uso dei collegamenti è importante anche per come i motori di ricerca "
+"percepiscono il tuo contenuto.</p><p>Più collegamenti ci sono verso contenuti "
+"correlati e pertinenti e meglio i motori di ricerca giudicheranno il "
+"post.</p><p>Collegamenti compatibili con XMLRPC può avere anche un impatto "
+"positivo suoi post in quanto questi potranno essere commentati "
+"trasversalmente tra entrambi i siti, con collegamenti di ritorno disponibili "
+"per i motori di ricerca.</p><p>La densità consigliata dei collegamenti è di "
+"0,5-1,5%</p>"
+
+#: packages/problog/elements/tools/optimizer.php:53
+#: packages/problog/elements/tools/optimizer.php:69
+msgid "Link Address"
+msgstr "Indirizzo del collegamento"
+
+#: packages/problog/elements/tools/optimizer.php:54
+#: packages/problog/elements/tools/optimizer.php:70
+msgid "Valid URL"
+msgstr "URL valido"
+
+#: packages/problog/elements/tools/optimizer.php:55
+msgid "XMLRPC"
+msgstr "XMLRPC"
+
+#: packages/problog/elements/tools/optimizer.php:56
+msgid "Rel Nofollow"
+msgstr "Rel Nofollow"
+
+#: packages/problog/elements/tools/optimizer.php:65
+msgid "Image Usage"
+msgstr "Utilizzo delle immagini"
+
+#: packages/problog/elements/tools/optimizer.php:65
+msgid "<p>Because most Search Engines now index images for use in their optimized image search tools, having images in your posts can have a positive impact on your page rankings.</p><p>The recommended Image Density is .5-1.5%</p>"
+msgstr ""
+"<p>Poiché al giorno d’oggi la maggior parte dei motori di ricerca indicizza "
+"le immagini da usare nei loro strumenti ottimizzati per la ricerca delle "
+"immagini, la presenza di immagini nei messaggi può avere un impatto positivo "
+"sulla classificazione della pagina.</p><p>La densità consigliata delle "
+"immagini è di 0,5-1,5%</p>"
+
+#: packages/problog/elements/tools/optimizer.php:71
+msgid "Alt Data"
+msgstr "Dati ALT"
+
+#: packages/problog/elements/tools/optimizer.php:80
+msgid "SEO Checklist"
+msgstr "Checklist SEO"
+
+#: packages/problog/elements/tools/optimizer.php:80
+msgid "<p>This list is designed to help you produce consistent & relevant content that is search optimized and spider friendly.</p><p>The below should be considered the minimum requirement for stronger SEO presence.</p>"
+msgstr ""
+"<p>Questo elenco è stato studiato per aiutare a produrre contenuti pertinenti "
+"e coerenti, ottimizzati per i motori di ricerca.</p><p>Quanto segue dovrebbe "
+"essere considerato come il requisito minimo per una migliore presenza SEO.</p>"
+
+#: packages/problog/elements/tools/optimizer.php:84
+#: packages/problog/elements/tools/optimizer.php:124
+#: packages/problog/elements/tools/optimizer.php:152
+msgid "Metric"
+msgstr "Metrica"
+
+#: packages/problog/elements/tools/optimizer.php:85
+#: packages/problog/elements/tools/optimizer.php:125
+#: packages/problog/elements/tools/optimizer.php:153
+#: packages/problog/single_pages/dashboard/problog/comments.php:43
+msgid "Status"
+msgstr "Stato"
+
+#: packages/problog/elements/tools/optimizer.php:98
+msgid "Meta Keywords"
+msgstr "Parole chiave meta"
+
+#: packages/problog/elements/tools/optimizer.php:102
+msgid "NLP Keyphrase Density"
+msgstr "Densità frasi chiave NLP"
+
+#: packages/problog/elements/tools/optimizer.php:106
+msgid "Keyword Density"
+msgstr "Densità parole chiave"
+
+#: packages/problog/elements/tools/optimizer.php:110
+msgid "Link Density"
+msgstr "Densità dei collegamenti"
+
+#: packages/problog/elements/tools/optimizer.php:114
+msgid "Image Density"
+msgstr "Densità delle immagini"
+
+#: packages/problog/elements/tools/optimizer.php:120
+msgid "Meta's Checklist"
+msgstr "Checklist meta"
+
+#: packages/problog/elements/tools/optimizer.php:120
+msgid "<p>Correlating Meta data is surprizingly often overlooked. </p><p>This Checklist is designed to help you keep your keyword phrases and keyword strategy consistent throughout your meta data</p>"
+msgstr ""
+"<p>La correlazione dei dati meta è spesso trascurata.</p><p>Questa checklist "
+"è progettata per aiutare a mantenere sotto controllo le frasi chiave e le "
+"parole chiave dei dati meta</p>"
+
+#: packages/problog/elements/tools/optimizer.php:130
+msgid "Meta Title contains a top used Keyphrase"
+msgstr "Il titolo meta contiene una frase chiave molto usata"
+
+#: packages/problog/elements/tools/optimizer.php:134
+msgid "Meta Description contains top 5 keywords"
+msgstr "Da descrizione chiave contiene 5 parole chiave molto usate"
+
+#: packages/problog/elements/tools/optimizer.php:138
+msgid "Meta Keywords contain top 5 keyphrases & top 5 keywords"
+msgstr ""
+"Le parole chiavi meta contengono 5 frasi chiave e 5 parole chiave molto usate"
+
+#: packages/problog/elements/tools/optimizer.php:142
+msgid "Tag Attribute contains 3 keywords"
+msgstr "L'attributo del tag attributo contiene 3 parole chiave"
+
+#: packages/problog/elements/tools/optimizer.php:148
+msgid "HTML Checklist"
+msgstr "Checklist HTML"
+
+#: packages/problog/elements/tools/optimizer.php:148
+msgid "<p>This Checklist is designed to optimize your use of HTML tags.</p><p>Search Engines now prioritize semantically structured content over older markup formatting.</p>"
+msgstr "<p>Queste caselle di controllo sono studiate per ottimizzare l’uso dei tag HTML.</p><p>I motori di ricerca danno una priorità maggiore ai contenuti strutturati semanticamente rispetto alla formattazione tradizionale.</ p>"
+
+#: packages/problog/elements/tools/optimizer.php:158
+msgid "Page title contains a top used keyphrase"
+msgstr "Il titolo della pagina contiene una frase chiave molto usata"
+
+#: packages/problog/elements/tools/optimizer.php:162
+msgid "No H1 tags within your post"
+msgstr "Nessun tag H1 nel tuo post"
+
+#: packages/problog/elements/tools/optimizer.php:166
+msgid "Use of H2 tags"
+msgstr "Usa i tag H2"
+
+#: packages/problog/elements/tools/optimizer.php:170
+msgid "Use of Blockquote tags"
+msgstr "Usa i tag blockquote"
+
+#: packages/problog/helpers/blogify.php:70
+#: packages/problog/helpers/blogify.php:91
+#: packages/problog/helpers/blogify.php:149
+#: packages/problog/helpers/blogify.php:171
+msgid " Blog Posts"
+msgstr " Post del blog"
+
+#: packages/problog/helpers/blogify.php:281
+msgid "comment"
+msgstr "commento"
+
+#: packages/problog/helpers/blog_actions.php:34
+msgid "A request for Blog Approval has been made"
+msgstr "È stata inoltrata la richiesta di approvazione del post"
+
+#: packages/problog/helpers/blog_actions.php:146
+msgid "New Blog Post!"
+msgstr "Nuovo post del blog!"
+
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:31
+msgid "Update"
+msgstr "Aggiorna"
+
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:35
+msgid "Add"
+msgstr "Aggiungi"
+
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:42
+msgid " Blog Post"
+msgstr " Post del blog"
+
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:319
+msgid "SEO Tools to help you maximize your impact!"
+msgstr "Strumenti SEO per aiutare a massimizzare l’impatto!"
+
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:320
+msgid "<p>Below you will find some helpful SEO tools to aid you in the delicate balance of keywords, keyword phrases, images, and links.</p><p>To the right you will find three important checklists.  While nothing on this report is mandatory, making sure as many items are checked on these lists as possible will ensure better readability and ranking by search engine algorithms.</p>"
+msgstr ""
+"<p>Qui di seguito sono presenti alcuni utili strumenti SEO utili per "
+"bilanciare il delicato equilibio di parole chiave, frasi chiave, immagini e "
+"collegamenti.</p><p>Sulla destra si trovano tre importanti liste di "
+"controllo.  Sebbene nulla di questo report sia obbligatorio, quanti più "
+"aspetti di queste liste sono verificati tanto meglio risulteranno la migliore "
+"leggibilità e la classifica per gli argoritmi dei motori di ricerca.</p>"
+
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:346
+#, php-format
+msgid "%s Post"
+msgstr "Posta %s"
+
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:347
+msgid "Save & Continue"
+msgstr "Salva e continua"
+
+#: packages/problog/single_pages/dashboard/problog/add_blog.php:348
+#: packages/problog/single_pages/dashboard/problog/blog_list.php:20
+msgid "Cancel"
+msgstr "Annulla"
+
+#: packages/problog/single_pages/dashboard/problog/blog_list.php:5
+msgid "View/Search Blog"
+msgstr "Vedi/cerca blog"
+
+#: packages/problog/single_pages/dashboard/problog/blog_list.php:13
+msgid "Holy guacamole! This is a warning!"
+msgstr "Caspiterina! Questo è un avviso!"
+
+#: packages/problog/single_pages/dashboard/problog/blog_list.php:14
+msgid "Are you sure you want to delete "
+msgstr "Eliminare "
+
+#: packages/problog/single_pages/dashboard/problog/blog_list.php:15
+msgid "This action may not be undone!"
+msgstr "Non è possibile annullare questa azione!"
+
+#: packages/problog/single_pages/dashboard/problog/blog_list.php:19
+msgid "Yes Remove This"
+msgstr "Sì, rimuovilo"
+
+#: packages/problog/single_pages/dashboard/problog/blog_list.php:35
+msgid "Section"
+msgstr "Sezione"
+
+#: packages/problog/single_pages/dashboard/problog/blog_list.php:36
+msgid "by Name"
+msgstr "per nome"
+
+#: packages/problog/single_pages/dashboard/problog/blog_list.php:37
+msgid "by Category"
+msgstr "per categoria"
+
+#: packages/problog/single_pages/dashboard/problog/blog_list.php:38
+msgid "by Tag"
+msgstr "per tag"
+
+#: packages/problog/single_pages/dashboard/problog/blog_list.php:40
+msgid "Only Show Unapproved"
+msgstr "Mostra solo non approvati"
+
+#: packages/problog/single_pages/dashboard/problog/blog_list.php:69
+msgid "Search"
+msgstr "Cerca"
+
+#: packages/problog/single_pages/dashboard/problog/blog_list.php:81
+msgid "Name"
+msgstr "Nome"
+
+#: packages/problog/single_pages/dashboard/problog/blog_list.php:86
+#: packages/problog/single_pages/dashboard/problog/comments.php:45
+msgid "Date"
+msgstr "Data"
+
+#: packages/problog/single_pages/dashboard/problog/blog_list.php:89
+msgid "Page Owner"
+msgstr "Proprietario della pagina"
+
+#: packages/problog/single_pages/dashboard/problog/blog_list.php:90
+msgid "blog Category"
+msgstr "categoria del blog"
+
+#: packages/problog/single_pages/dashboard/problog/blog_list.php:91
+msgid "In Draft"
+msgstr "Nelle bozze"
+
+#: packages/problog/single_pages/dashboard/problog/blog_list.php:134
+msgid "Approve This"
+msgstr "Approva questo"
+
+#: packages/problog/single_pages/dashboard/problog/comments.php:9
+msgid " Blog Comments"
+msgstr " Commenti del blog"
+
+#: packages/problog/single_pages/dashboard/problog/comments.php:19
+msgid "Filter"
+msgstr "Filtra"
+
+#: packages/problog/single_pages/dashboard/problog/comments.php:26
+msgid "Approved"
+msgstr "Approvato"
+
+#: packages/problog/single_pages/dashboard/problog/comments.php:27
+msgid "Unapproved"
+msgstr "Non approvato"
+
+#: packages/problog/single_pages/dashboard/problog/comments.php:31
+msgid "submit"
+msgstr "invia"
+
+#: packages/problog/single_pages/dashboard/problog/comments.php:44
+msgid "User Info"
+msgstr "Info utente"
+
+#: packages/problog/single_pages/dashboard/problog/comments.php:46
+msgid "Comment"
+msgstr "Commento"
+
+#: packages/problog/single_pages/dashboard/problog/comments.php:67
+msgid "Permanently Remove"
+msgstr "Rimuovi definitivamente"
+
+#: packages/problog/single_pages/dashboard/problog/comments.php:69
+msgid "Reply To Message"
+msgstr "Rispondi al messaggio"
+
+#: packages/problog/single_pages/dashboard/problog/comments.php:71
+msgid "Unapprove"
+msgstr "Non approvare"
+
+#: packages/problog/single_pages/dashboard/problog/comments.php:73
+msgid "Approve"
+msgstr "Approva"
+
+#: packages/problog/single_pages/dashboard/problog/comments.php:96
+msgid " FIRST PREV "
+msgstr " PRIMO PREC "
+
+#: packages/problog/single_pages/dashboard/problog/comments.php:98
+msgid "FIRST "
+msgstr "PRIMO "
+
+#: packages/problog/single_pages/dashboard/problog/comments.php:100
+msgid " PREV"
+msgstr " PREC"
+
+#: packages/problog/single_pages/dashboard/problog/comments.php:106
+msgid " NEXT LAST "
+msgstr " SUCC ULTIMO "
+
+#: packages/problog/single_pages/dashboard/problog/comments.php:109
+msgid "NEXT "
+msgstr "SUCC "
+
+#: packages/problog/single_pages/dashboard/problog/comments.php:110
+msgid " LAST"
+msgstr " ULTIMO"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:10
+msgid " Blog Settings"
+msgstr " Impostazioni del blog"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:17
+msgid "Show"
+msgstr "Mostra"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:21
+msgid "Twitter"
+msgstr "Twitter"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:24
+msgid "Google +1"
+msgstr "Google +1"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:27
+msgid "Facebook Like"
+msgstr "Mi piace di Facebook"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:33
+msgid "Comments"
+msgstr "Commenti"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:40
+msgid "Publishing Settings"
+msgstr "Impostazioni di pubblicazione"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:45
+msgid "Enable Canonical URLS"
+msgstr "Abilita gli URL canonici"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:51
+msgid "Automatically publish pages by year and month. (/blog/2013/06/my-blog-post)"
+msgstr "Pubblica automaticamente le pagine per anno e mese. (/blog/2013/06/mio-post-del-blog)"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:56
+msgid "Default Page Template"
+msgstr "Modello di pagina predefinito"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:73
+msgid "Page Break for Post Preview"
+msgstr "Interruzioni di pagina per l’anteprima del post"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:85
+msgid "Blog Path Settings"
+msgstr "Impostazioni percorso del blog"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:90
+msgid "Tags/Categories Search Results Location"
+msgstr "Posizione dei risultati della ricerca per tag/categorie"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:104
+msgid "API Settings"
+msgstr "Impostazioni API"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:109
+msgid "Alchemy API Key"
+msgstr "Chiave API di Alchemy"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:116
+msgid "Your Alchemy API key enables you to optimize your blog content."
+msgstr "La chiave API personale di Alchemy permette di ottimizzare il contenuto del tuo blog."
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:121
+msgid "Sharethis Publisher Key"
+msgstr "Chiave Publisher di Sharethis"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:128
+msgid "grab your publisher key <a href=\"http://sharethis.com/account/\"\n"
+"                target=\"_blank\">http://sharethis.com/account/</a> in your account area.  track your social impact for free."
+msgstr "ricava la tua chiave publisher <a href=\"http://sharethis.com/account/\"\n"
+"                target=\"_blank\">http://sharethis.com/account/</a> nell’area del tuo account.  Traccia il tuo impatto sociale gratuitamente."
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:134
+msgid "Disqus Short Name (case sensitive)"
+msgstr "Nome breve di Disqus (distingue maiuscole e minuscole)"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:143
+msgid "Entering this value will set your comments, comment counts,\n"
+"                and latest comments block to the Disqus comments system.  Simply remove this value if you desire to use guestbook and/or advanced guestbook."
+msgstr "Specificando questo valore, verranno impostati i commenti, il numero di commenti\n"
+"                e gli ultimi blocchi dei commenti nel sistema dei commenti di Disqus. Basta rimuovere questo valore se si vuole usare utilizzare il libro degli ospiti e/o il libro degli ospiti avanzato."
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:149
+msgid "embed.ly API Key"
+msgstr "Chiave API di embed.ly"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:156
+msgid "grab your API key <a href=\"http://embed.ly/\" target=\"_blank\">http://embed.ly</a> in\n"
+"                your account area for free & embed pretty much anything!"
+msgstr "ricava gratuitamente la tua chiave API <a href=\"http://embed.ly/\" target=\"_blank\">http://embed.ly</a>\n"
+"                nell’area del tuo account; quindi potrai incorporare pressoché qualsiasi cosa!"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:162
+msgid "Enable Twitter Option"
+msgstr "Abilita opzione Twitter"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:187
+msgid "Authorize with Twitter"
+msgstr "Autorizza con Twitter"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:194
+msgid "You are connected to twitter as"
+msgstr "Collegato a twitter come"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:196
+msgid "Clear"
+msgstr "Azzera"
+
+#: packages/problog/single_pages/dashboard/problog/settings.php:205
+msgid "Save Settings"
+msgstr "Salva impostazioni"
+
+#: packages/problog/blocks/content/templates/blog_post
+msgctxt "TemplateFileName"
+msgid "Blog Post"
+msgstr "Post del blog"
+
+#: packages/problog/blocks/problog_list/templates/archive
+msgctxt "TemplateFileName"
+msgid "Archive"
+msgstr "Archivio"
+
+#: packages/problog/blocks/problog_list/templates/categories
+msgctxt "TemplateFileName"
+msgid "Categories"
+msgstr "Categorie"
+
+#: packages/problog/blocks/problog_list/templates/footer_list
+msgctxt "TemplateFileName"
+msgid "Footer List"
+msgstr "Elenco pié pagina"
+
+#: packages/problog/blocks/problog_list/templates/past_posts
+msgctxt "TemplateFileName"
+msgid "Past Posts"
+msgstr "Post precedenti"
+
+#: packages/problog/blocks/problog_list/templates/tags
+msgctxt "TemplateFileName"
+msgid "Tags"
+msgstr "Tag"
+
+#: packages/problog/blocks/problog_list/templates/tag_cloud
+msgctxt "TemplateFileName"
+msgid "Tag Cloud"
+msgstr "Tag cloud"
+
+#: packages/problog/blocks/related_pages/templates/compact
+msgctxt "TemplateFileName"
+msgid "Compact"
+msgstr "Compatto"

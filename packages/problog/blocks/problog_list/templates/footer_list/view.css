@@ -1,0 +1,14 @@
+/*unstyled list*/
+.list-unstyled li {
+	margin-bottom: 20px;
+	background: none;
+	list-style-type: none;
+	display: block;
+}
+.list-unstyled img {
+	margin-right: 10px;
+	float: left;
+}
+.list-unstyled span {
+	font-size: 12px;
+}
