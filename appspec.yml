@@ -5,16 +5,17 @@ files:
     destination: /var/www/test.com
 permissions:
   - object: /var/www/test.com
-    pattern: "*"
+    pattern: "**"
     owner: www-data
     group: www-data
     mode: 777
     type:
       - directory
+permissions:
   - object: /var/www/test.com
-    pattern: "*"
+    pattern: "**"
     owner: www-data
     group: www-data
     mode: 777
     type:
-      - files
+      - file
