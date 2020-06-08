@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+    <table name="btContentFeature">
+        <field name="bID" type="I">
+            <key/>
+            <unsigned/>
+        </field>
+        <field name="featureimg" type="I">
+            <default value="0"/>
+            <unsigned/>
+        </field>
+        <field name="featurehdr" type="C" size="255"></field>
+        <field name="featureblurb" type="X"></field>
+        <field name="featurelink" type="I"></field>
+        <field name="featurelink_text" type="C"></field>
+    </table>
+</schema>

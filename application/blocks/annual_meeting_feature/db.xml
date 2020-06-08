@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+    <table name="btAnnualMeetingFeature">
+        <field name="bID" type="I">
+            <key/>
+            <unsigned/>
+        </field>
+        <field name="cardbkgimg" type="I">
+            <default value="0"/>
+            <unsigned/>
+        </field>
+        <field name="cardcontent" type="X2"></field>
+    </table>
+</schema>
