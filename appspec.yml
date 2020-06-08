@@ -2,15 +2,15 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /var/www/example.com
+    destination: /var/www/test.com
 permissions:
+  - object: /var/www/test.com
     pattern: "*"
     owner: www-data
     group: www-data
     mode: 777
     type:
       - directory
-  - object: /var/www
   - object: /var/www/test.com
     pattern: "*"
     owner: www-data
