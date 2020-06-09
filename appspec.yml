@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /var/www/test.com
+    destination: /var/www/aadprt.org
 permissions:
   - object: /var/www/test.com
     pattern: "**"
@@ -12,10 +12,13 @@ permissions:
     type:
       - directory
 permissions:
-  - object: /var/www/test.com
+  - object: /var/www/aadprt.org
     pattern: "**"
     owner: www-data
     group: www-data
     mode: 777
     type:
       - file
+hooks:
+  AfterInstall:
+    - location: scripts/set-permissions.sh

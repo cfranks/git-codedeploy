@@ -15,7 +15,7 @@ class Controller extends \Concrete\Core\Package\Package
     protected $pkgHandle = 'informatics_open_graph';
     protected $appVersionRequired = '8.3.2';
     protected $pkgVersion = '0.0.1';
-    protected $pkgAutoloaderRegistries = ['Src' => 'InformaticsOpenGraphSrc'];
+    protected $pkgAutoloaderRegistries = ['src' => 'InformaticsOpenGraphSrc'];
 
     public function getPackageDescription()
     {
