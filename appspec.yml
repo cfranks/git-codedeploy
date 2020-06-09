@@ -21,4 +21,4 @@ permissions:
       - file
 hooks:
   AfterInstall:
-    - location: scripts/set-permissions.sh
+    - location: scripts/set-cache-permissions.sh
