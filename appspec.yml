@@ -19,6 +19,3 @@ permissions:
     mode: 777
     type:
       - file
-hooks:
-  AfterInstall:
-    - location: scripts/set-cache-permissions.sh
